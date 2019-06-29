@@ -1,0 +1,3 @@
+public class ArrayList<T> : IEnumerable<T> - kato se pravi class za kolekciq v T se zapazva kakuv tip da sa dannite ot kolekciqta IEnumerable<T> e interfais k opravlqva povedenieto na klassa
+
+public T this[int index] {}=burnika v masiva k. e property na kolekciqta ot main metoda
